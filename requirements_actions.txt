@@ -1,5 +1,3 @@
-#Add Packages Required by Github Actions Here
-
 #Devops
 black
 black_nbconvert
