@@ -1,6 +1,9 @@
-"""Viterbi Algorithm for inferring the most likely sequence of states from an HMM.
+"""
+Viterbi Algorithm for inferring the most likely sequence of states from an HMM.
 
-Patrick Wang, 2021
+NLP, Duke University, Fall-2023
+Professor: Patrick Wang
+Assignment: 03
 
 Group Members:
 1. Revanth Chowdary Ganga (rg361)
